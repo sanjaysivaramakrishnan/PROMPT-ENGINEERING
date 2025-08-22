@@ -6,6 +6,9 @@ Develop a comprehensive report for the following exercises:
 3.	Generative AI applications.
 4.	Generative AI impact of scaling in LLMs.
 
+### Name   : Sanjay sivaramakrishnan M
+### Reg no : 212223240151
+
 # Algorithm: Step 1: Define Scope and Objectives
 1.1 Identify the goal of the report (e.g., educational, research, tech overview)
 1.2 Set the target audience level (e.g., students, professionals)
@@ -395,27 +398,8 @@ breakthroughs in architectures like transformers and scaling of LLMs. Its real-w
 are transforming industries and human-computer interactions. However, careful stewardship is
 required to maximize benefits while addressing limitations and mitigating risks.
 Note: All technical and factual claims are supported by up-to-date references from leading AI
-research sources and industry documentation.
-⁂
-1. https://learn.microsoft.com/en-us/training/modules/fundamentals-generative-ai/
-2. https://aws.amazon.com/what-is/generative-ai/
-3. https://docs.oracle.com/en-us/iaas/Content/generative-ai/concepts.htm
-4. https://www.wipo.int/web-publications/patent-landscape-report-generative-artificial-intelligence-gena
-i/en/1-generative-ai-the-main-concepts.html
-5. https://www.geeksforgeeks.org/artificial-intelligence/foundation-models-in-generative-ai/
-6. https://www.pluralsight.com/resources/blog/ai-and-data/what-are-transformers-generative-ai
-7. https://www.xcubelabs.com/blog/understanding-transformer-architectures-in-generative-ai-from-bert
--to-gpt-4/
-8. https://www.tutorialspoint.com/gen-ai/transformers-in-generative-ai.htm
-9. https://www.elastic.co/search-labs/blog/generative-ai-transformers-explained
-10. https://sendbird.com/developer/tutorials/introduction-to-basic-generative-ai-concepts
-11. https://en.wikipedia.org/wiki/Generative_artificial_intelligence
-12. https://www.coursera.org/articles/generative-ai-applications
-13. https://quantiphi.com/blog/generative-ai
-14. https://arxiv.org/html/2505.00985v2
-15. https://cameronrwolfe.substack.com/p/llm-scaling-laws
-16. https://blogs.nvidia.com/blog/ai-scaling-laws/
-17. https://arxiv.org/html/2504.02181v1
 
 
-# Result
+
+# Result:
+Thus we successfully get the result from CHATGPT AND Perplexity
